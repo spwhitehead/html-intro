@@ -1,0 +1,15 @@
+body {background-color: aquamarine;}
+
+.note {
+    color:blue;
+    font-style: italic;
+    font-size: xx-large;
+    font-family: monospace;
+    }
+
+.cool{
+    color: red;
+    font: bolder, 100;
+    font-size: 500%;
+        
+    }
